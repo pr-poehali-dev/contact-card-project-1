@@ -8,7 +8,6 @@ const Index = () => {
         position="Технический директор"
         email="petrov@techcompany.ru"
         phone="+7 (999) 765-43-21"
-        address="г. Санкт-Петербург, пр. Невский, 42"
       />
     </div>
   );
